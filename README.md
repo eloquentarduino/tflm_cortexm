@@ -1,0 +1,1 @@
+Only working with Arduino Nano 33 BLE Sense.
